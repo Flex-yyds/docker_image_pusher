@@ -9,3 +9,4 @@ ubuntu
 tomcat
 mysql:5.7
 registry
+tomcat
