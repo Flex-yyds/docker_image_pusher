@@ -8,3 +8,4 @@ redis:8.10
 ubuntu
 tomcat
 mysql:5.7
+registry
